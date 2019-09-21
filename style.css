@@ -1,0 +1,15 @@
+        /* 這裡寫CSS的語法 */
+        /* CSS 選擇器 */
+        /* 標籤名稱選擇器 */
+        body{background-color:#cccccc;font-family:"微軟正黑體","新細明體"}
+        /* ID 選擇器 */
+        #del{text-decoration:line-through;}
+        /* Class 選擇器 */
+         .title{font-size:24px;font-weight:bold
+        }
+         .content{width:500px;margin-top:10px;border:5px solid rgb(128, 0, 17);padding:10px;
+        }
+         .keyword{color:aqua
+        }
+         .underline{text-decoration:underline
+        }
